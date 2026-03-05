@@ -32,6 +32,4 @@ El flujo de trabajo se dividió en cuatro fases técnicas:
    - Análisis de frecuencia de variables categóricas.
    - Estudio de la distribución de densidad en variables numéricas (antigüedad y facturación).
 
-## Hallazgos Principales
-- **Impacto del Contrato:** Los clientes bajo contratos mensuales presentan una tasa de abandono significativamente mayor en comparación con los contratos a largo plazo.
-- **Factor de Antigüedad:** Existe una concentración crítica de abandono en los primeros seis meses de
+
